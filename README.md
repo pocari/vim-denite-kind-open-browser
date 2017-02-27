@@ -23,7 +23,7 @@ For [dein.vim](https://github.com/Shougo/dein.vim)
 
 ## Kind info
 
-You can this `Kind` with your denite `Source` in this way.
+You can use this `Kind` in your denite `Source` in this way.
 
 ```
 class Source(Base):
